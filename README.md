@@ -14,13 +14,13 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 Firstly, we generated a pivot table and applying filters for theater. We can see that the total number of successful, failed and canceled theater campaigns is 1,369.
 We then generated a Pivot Chart with line graph and using filters to help us determine trends in theater outcomes based on launch date. We can see by looking at our new chart that the month of May has the greatest success rate. There are higher numbers of success than failure for all months in the year.
 
-![Theater_Outcomes_vs_Launch](https://github.com/grwon/kickstarter_challenge/resources/Theater_Outcomes_vs_Launch.png).
+![Theater_Outcomes_vs_Launch](https://github.com/grwon/kickstarter_challenge/tree/master/resources/Theater_Outcomes_vs_Launch.png).
 
 ### Analysis of Outcomes Based on Goals
 
 We populated the number of successful, failed and canceled play project campaigns in tabluar data format. We noted that most of the play campaigns have goals less than $10,000 and projects with goals under $5,000 have the highest success rate. There were no canceled projects.
 
-![Outcomes_vs_Goals](https://github.com/grwon/kickstarter_challenge/resources/Outcomes_vs_Goals.png).
+![Outcomes_vs_Goals](https://github.com/grwon/kickstarter_challenge/tree/master/resources/Outcomes_vs_Goals.png).
 
 
 ### Challenges and Difficulties Encountered
